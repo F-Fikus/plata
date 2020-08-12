@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="IZJwQszDTH8" size="5.000000 3.750000" />
+    <ImageTarget name="ArTarget" size="5.000000 5.000000" />
+    <ImageTarget name="Katya" size="5.000000 7.952872" />
+    <ImageTarget name="voron2" size="5.000000 5.000000" />
+    <ImageTarget name="kaktus" size="5.000000 5.000000" />
+    <ImageTarget name="scheli" size="5.000000 5.000000" />
+    <ImageTarget name="sombi" size="5.000000 5.000000" />
+    <ImageTarget name="ender" size="5.000000 5.000000" />
+    <ImageTarget name="kriper" size="5.000000 5.000000" />
+    <ImageTarget name="voron" size="5.000000 5.000000" />
+    <ImageTarget name="paik" size="5.000000 5.000000" />
+    <ImageTarget name="kriper2" size="5.000000 4.560440" />
+    <ImageTarget name="zombi" size="5.000000 6.572222" />
+    <ImageTarget name="vfqyr" size="5.000000 7.013245" />
+    <ImageTarget name="ggg" size="5.000000 5.000000" />
+  </Tracking>
+</QCARConfig>
